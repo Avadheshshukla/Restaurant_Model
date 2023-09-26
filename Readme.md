@@ -82,8 +82,8 @@ POST Method :  http://localhost:8080/restaurantModel
 
 <!-- Contact -->
 ## Contact
-For questions or feedback, please contact : Deepak kumar singh   -
-- Maild Id : deepak76311@gmail.com
+For questions or feedback, please contact :Avadhesh Shukla   -
+- Maild Id : avadheshshukla1636@gmail.com
 
 <h1 align="center">Thank You...<h1>
 <h3 align = "center"> ***********************************************************<h3># Restaurant_model
